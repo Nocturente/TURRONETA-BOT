@@ -1,0 +1,7 @@
+{
+  "name": "LA TURRONETA",
+  "description": "Bot Musica",
+  "repository": "https://github.com/eritislami/evobot",
+  "logo": "https://i.imgur.com/JFxgbWH.png",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
